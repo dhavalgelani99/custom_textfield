@@ -7,20 +7,20 @@ This package to create simple and attractive Textfield with your Customization.
 Add the following to your pubspec.yaml file.
 
 ### Install:
-```dart
+```
 dependencies:
-  textfield_shadow: 1.1.0+1
+  textfield_shadow: any
 ```
 
 ### Import the package:
-```dart
-import 'package:textfield_shadow/textfield_shadow.dart';
+```
+import 'package:textfield_shadow/custom_textfield.dart';
 ```
 
 ### Usage:
 make a custom textfield inside any widget's child, CustomTextfield will give functionality to add attractive textfield with custom changes according to your need.
 
-```dart
+```
 CustomTextfield(
               size: size,
               controller: controller,

@@ -1,3 +1,8 @@
+## 1.1.0+2
+
+* Made some change in readme.md file
+* Change file structure of package
+
 ## 1.1.0+1
 
 * Made some change in readme.md file
