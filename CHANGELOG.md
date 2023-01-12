@@ -1,3 +1,7 @@
+## 1.2.0
+
+* Made some change in description
+
 ## 1.1.0+2
 
 * Made some change in readme.md file

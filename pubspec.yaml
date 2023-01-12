@@ -1,6 +1,6 @@
 name: textfield_shadow
-description: Textfield Shadow is for creating attractive textfield with full customization available and also initial textfield with shadow and prefix and suffix with your choice and many functions for apply more functionality
-version: 1.1.0+2
+description: Textfield Shadow is for creating attractive textfield with customization available.
+version: 1.2.0
 homepage: https://github.com/dhavalgelani99/custom_textfield
 
 environment:
